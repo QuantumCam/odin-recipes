@@ -25,3 +25,8 @@ ul {
 ol {
     list-style: none;
 }
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+}
