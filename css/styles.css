@@ -1,11 +1,11 @@
 .container {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(189, 219, 188);
 }
 
-.img {
+img {
     width: 600px;
     height: 600px;
-    border-radius: 50%;
+    border-radius: 20%;
 }
 
 .recipe-image {
@@ -14,10 +14,14 @@
     border-radius: 10%;
 }
 
-.external-method {
-    background-color: red;
-    color: white;
+body {
     text-align: center;
-    font-size: 32px;
-    font-weight: bold;
-  }
+}
+
+ul {
+    list-style: none;
+}
+
+ol {
+    list-style: none;
+}
