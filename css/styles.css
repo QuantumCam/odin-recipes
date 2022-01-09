@@ -1,5 +1,11 @@
 .container {
-    background-color: rgb(189, 219, 188);
+    background-color: rgb(191, 214, 154);
+    /*The code below is what makes the div fill the whole page */
+    position:absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
 }
 
 img {
