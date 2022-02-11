@@ -1,5 +1,6 @@
 # odin-recipes
-Recipe Project from The Odin Project
+Recipe Project from The Odin Project.
+
 This is the first assignment from The Odin Project. The main focus up this point is primarily HTML, with some CSS sprinkled in. 
 
 Link to Receipe project from The Odin Project
