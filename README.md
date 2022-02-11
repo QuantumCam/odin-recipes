@@ -9,4 +9,4 @@ Link to Receipe project from The Odin Project:
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes
 
 Link to my recipe page:
-
+https://quantumcam.github.io/odin-recipes/
