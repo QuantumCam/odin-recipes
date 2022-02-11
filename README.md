@@ -1,4 +1,6 @@
 # odin-recipes
 Recipe Project from The Odin Project
-Now we put everything I've learned so far to the test. 
-I'm excited to apply my knowledge into something real. Well, real to me. 
+This is the first assignment from The Odin Project. The main focus up this point is primarily HTML, with some CSS sprinkled in. 
+
+Link to Receipe project from The Odin Project
+https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes
